@@ -1,0 +1,5 @@
+PRODUCT = {SNEAKESOUP, GONGBAOFROGS, MAPOTOFU};
+profit = [290, 190, 80];
+RESOURCE = {SIZE};
+capacity = [180];
+consumption = [| 80 | 50 | 30 |];

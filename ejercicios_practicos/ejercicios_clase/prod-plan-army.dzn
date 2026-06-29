@@ -1,0 +1,5 @@
+PRODUCT = {F, L, Z, J};
+profit = [60, 100, 80, 400];
+RESOURCE = {MONEY};
+capacity = [100000];
+consumption = [| 130 | 210 | 170 | 1000 |];
