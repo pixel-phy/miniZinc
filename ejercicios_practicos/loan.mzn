@@ -1,7 +1,7 @@
 % Variables
-var float: R = 2600.0; %quarterly repayment
-var float: P = 10000.0; %principal initially borrowed
-var 0.0 .. 2.0: I = 0.04; % interes rate
+var float: R; %quarterly repayment
+var float: P; %principal initially borrowed
+var 0.0 .. 2.0: I; % interes rate
 % intermediate variables
 var float: B1; % balance after one quarter
 var float: B2; % balance after two quaerters
