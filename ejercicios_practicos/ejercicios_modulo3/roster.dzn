@@ -1,0 +1,5 @@
+SOLDIER = { S1, S2, S3, S4, S5, S6, S7, S8 };
+nDays = 7;
+o = 2;  % 2 soldados en NIGHT por día
+l = 2;  % mínimo 2 en EVE por día
+u = 4;  % máximo 4 en EVE por día
